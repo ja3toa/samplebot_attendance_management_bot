@@ -36,11 +36,11 @@ SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
 SECRET_KEY_NAME = "private_201xxxxx164308.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://hase-botan02.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-147-209-121.compute-1.amazonaws.com"
+DB_NAME = "d9mptjf6uhuqp7"
+DB_USER = "ifvtwewefispzh"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "6c83168c9c4cd56b84d402d4958bd24ea4b25f91f172c6d61cb125219f8a7ac1"
